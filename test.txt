@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 80AB-C8F0
+
+ Directory of C:\Users\santosh.yadav\Desktop\myProject
+
+03/03/2020  11:01 PM    <DIR>          .
+03/03/2020  11:01 PM    <DIR>          ..
+03/03/2020  11:01 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  34,845,859,840 bytes free
